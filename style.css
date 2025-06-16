@@ -8,7 +8,7 @@ body {
     text-transform: uppercase;
     letter-spacing: .5em;
     top: 15%;
-	background: linear-gradient(to right, red , yellow); /* Standard syntax */
+	/*background: linear-gradient(to right, red , yellow); /* Standard syntax */
 }
 
 h1 {
@@ -62,5 +62,5 @@ h3 {
     justify-content: center;
     height: 100vh;
     width:100vw;
-    min-width:450px; 
+    min-width:500px; 
 }
