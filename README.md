@@ -13,7 +13,7 @@ You can check it out live [here](https://insightvigil.github.io/background-gener
 ### Contributors 🤝
 - [Adrián Vigil](https://github.com/insightvigil)
 
-#### Project developed during _[Course name or context]_
+#### Project developed during _The Complete Web Developer in 2025: Zero to Mastery_
 
 
 
