@@ -1,6 +1,6 @@
 ## Background Generator 🚀
 
-Dynamic Background web page built with CSS and JS
+Dynamic Background web page
 
 ### Applied technologies 🧑‍💻
 - HTML
