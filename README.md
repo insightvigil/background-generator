@@ -7,9 +7,6 @@ Dynamic Background web page
 - CSS
 - JavaScript
 
-### Applied API's 🧩
-- [API name, e.g., localStorage API]
-
 You can check it out live [here](https://insightvigil.github.io/background-generator
 ).
 
